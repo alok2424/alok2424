@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alok Kumar Gupta</h1>
-<h3 align="center">Full Stack Blockchain Developer and former intern at Decentraclasses, where I focused on building decentralized applications to solve real-world problems. Previously, ZK Lead at AcadProtocol, exploring zero-knowledge technologies.</h3>
+<h3 align="center">Full Stack Blockchain Developer and former intern at EDUBUK, where I focused on integration of OCID SDK into their project TRUECV. Previously, Technical Lead at EDC JSS. Achieved RUNNER UP position at KWALA HACKER HOUSE .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok2424&label=Profile%20views&color=0e75b6&style=flat" alt="alok2424" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/https://x.com/alok679166" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/alok679166?logo=twitter&style=for-the-badge" alt="https://x.com/alok679166" /></a> </p>
 
-- 🔭 I’m currently working on [AcadChain](https://acadchain.xyz/)
+- 🔭 I’m currently working with EDUBUK(https://www.edubuk.io/)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning Backend.
 
-- 💬 Ask me about **react,solana,**
+- 💬 Ask me about **React,Blockchain,SDK Integration,**
 
 - 📫 How to reach me **alokg49371@gmail.com**
 
