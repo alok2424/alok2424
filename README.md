@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alok Kumar Gupta</h1>
-<h3 align="center">Full Stack Blockchain Developer | Former Intern at EDUBUK & ASATROBO TECHNOLOGY | Ex-Technical Lead at EDC JSS | Runner Up at KWALA HACKER HOUSE</h3>
+<h3 align="center">Full Stack Blockchain Developer | Former Intern at EDUBUK & ASATROBO TECHNOLOGY | Ex-Technical Lead at EDC JSS | Secured 1st position at KWALA HACKER HOUSE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok2424&label=Profile%20views&color=0e75b6&style=flat" alt="alok2424" /> </p>
 
