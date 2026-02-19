@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **alokg49371@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dM9xw11g8RMZ_7Wn20Ft5GnGSuVqMMkA/view?usp=sharing](https://drive.google.com/file/d/1dM9xw11g8RMZ_7Wn20Ft5GnGSuVqMMkA/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dM9xw11g8RMZ_7Wn20Ft5GnGSuVqMMkA/view?usp=sharing]([https://drive.google.com/file/d/1dM9xw11g8RMZ_7Wn20Ft5GnGSuVqMMkA/view?usp=sharing](https://drive.google.com/file/d/1s3om-OcEHgJ-Y8JbsYVlCm_8F5YAznjo/view?usp=sharing))
 
 - ⚡ Fun fact **More active on Twitter than LinkedIn**
 
